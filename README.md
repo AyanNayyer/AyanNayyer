@@ -1,4 +1,4 @@
-# Hi there, I'm Ayan Nayyer 👋
+# Hello World 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://ayannayyer.live)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayannayyer)
@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Projects
 
-![Projects](https://ayanner.live/projects)
+[![Projects](https://img.shields.io/badge/-Live_Demo-000?style=flat)](https://ayannayyer.live/projects)
 
 ---
 
@@ -68,8 +68,6 @@
 <!--
 - [Understanding India's New Tax Regime](https://blog.ayannayyer.com/tax-regime-analysis)
 - [Building Scalable Flask Applications](https://blog.ayannayyer.com/flask-best-practices)
-<!-- BLOG-POST-LIST:END --> -->
-
----
+<!-- BLOG-POST-LIST:END --> 
 
 ⭐️ From [Ayan Nayyer](https://ayannayyer.live)
