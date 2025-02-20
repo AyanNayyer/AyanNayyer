@@ -1,11 +1,19 @@
 # Hi there, I'm Ayan Nayyer 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://ayannayyer.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://ayannayyer.live)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayannayyer)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayannayyer)
 
-🔭 **Data Science** | **Full-Stack Development** | **Machine Learning**  
-💡 Turning complex problems into elegant solutions
+🔭 **Data Science** | **Full-Stack Development** | **Machine Learning** | **Artificial Intelligence**
+💡 Trying..
+
+---
+
+## 🔬 Areas of Expertise
+- Machine Learning (Supervised/Unsupervised)
+- Data Analytics
+- Statistical Modelling
+- Web Dev
 
 ---
 
@@ -16,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
 
 ### Databases & Tools
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -52,12 +61,13 @@
 
 ---
 
-## 💡 Latest Blog Posts
+<!--## 💡 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Understanding India's New Tax Regime](https://blog.ayannayyer.com/tax-regime-analysis)
 - [Building Scalable Flask Applications](https://blog.ayannayyer.com/flask-best-practices)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 ---
 
-⭐️ From [Ayan Nayyer](https://ayannayyer.com)
+⭐️ From [Ayan Nayyer](https://ayannayyer.live)
