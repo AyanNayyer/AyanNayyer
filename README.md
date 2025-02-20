@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Projects
 
-[![Projects](https://img.shields.io/badge/-Live_Demo-000?style=flat)](https://ayannayyer.live/projects)
+[![Projects](https://img.shields.io/badge/-Projects-000?style=flat&logo=react&logoColor=white)](https://ayannayyer.live/projects)
 
 ---
 
